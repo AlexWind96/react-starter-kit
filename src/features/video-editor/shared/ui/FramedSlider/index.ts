@@ -1,0 +1,1 @@
+export { FramedSlider } from './FramedSlider'

@@ -1,0 +1,1 @@
+export { CanvasThumbnail } from './CanvasThumbnail'

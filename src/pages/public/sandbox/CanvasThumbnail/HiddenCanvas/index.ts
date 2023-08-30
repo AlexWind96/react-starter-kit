@@ -1,0 +1,1 @@
+export { HiddenCanvas } from './HiddenCanvas'
